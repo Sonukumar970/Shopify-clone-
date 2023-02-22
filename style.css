@@ -1,0 +1,198 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    font-size: 20px;
+    padding: 12px;
+    background-color: rgb(10, 61,61);
+    color: white;
+}
+nav img{
+    width: 13%;
+}
+nav p{
+    margin-top: 15px;
+}
+nav p:hover{
+    border-bottom: 1px solid white;
+    cursor: pointer;
+}
+nav button{
+    width: 130px;
+    height: 40px;
+    margin-top: 5px;
+    background-color: rgb(21, 139,100);
+    color: white;
+    border-radius: 3px;
+    font-size: 18px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color:  rgb(10, 61,61);
+    color: white;;
+    
+}
+.main h1{
+    font-size: 50px;
+    margin-right: 37px;
+}
+.main .text{
+    margin-top: 44px;
+    margin-left: 37px;
+}
+.main p{
+    font-size: 16px;
+    margin-top: 26px;
+    
+}
+.inp{
+    margin-top: 19px;
+}
+.main input{
+    width: 300px;
+    height: 46px;
+    border: none;
+    font-size: 18px;
+    border-radius: 4px;
+}
+.main button{
+    width: 140px;
+    height: 46px;
+    border: none;
+    background-color: rgb(21, 139,100);
+    color: white;
+    border-radius: 3px;
+    font-size: 18px;
+    margin-inline: 11px;
+}
+.main img{
+    width:580px;
+    height: 480px;
+    margin-top: 11px;
+    border-radius: 90px;
+}
+.main .text .dis{
+    font-size: 15px;
+    margin-top: 22px
+}
+.discover{
+    text-align: center;
+    padding: 33px;
+    margin-top: 33px;
+}
+.discover img{
+    margin-top: 30px;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 50px;
+    font-size: 20px;
+}
+.card .text{
+    padding: 70px;
+}
+.card p{
+    margin-top: 20px;
+    font-size: 18px;
+}
+.card h2{
+    margin-top: 20px;
+}
+.card .img{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(245, 206, 212);
+    border-radius: 7px;
+}
+.ent h2{
+    text-align: center;
+    font-size: 30px;
+    padding: 60px;
+}
+ .number{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: rgba(127, 255, 212, 0.687);
+}
+.card .texts{
+    margin-top: 70px;
+}
+.texts p{
+    font-size: 20px;
+}   
+.texts h2{
+    font-size: 25px;
+} 
+.sell{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 40px;
+}
+.sell h1{
+    font-size: 42px;
+    padding: 30px;
+
+    
+}
+.sell .text{
+    background-color: rgb(246, 200, 208);
+    width: 800px;
+
+}
+.sell h2{
+    padding: 10px;
+    font-size: 30px;
+    
+}
+.sell img{
+    width: 500px;
+}
+.sell p{
+    font-size: 20px;
+    padding: 10px;
+}
+.top{
+    display: flex;
+    background-color: rgb(15, 88, 63);
+    color: white;
+    padding: 44px;
+    margin-top: 55px;
+    font-size: 22px;
+    
+}
+.top p{
+    margin-inline: 20px;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: rgb(6, 67, 46);
+    color: white;
+    padding: 66px;
+    border-top: 1px solid gray;
+
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
